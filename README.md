@@ -30,10 +30,6 @@ This repository provides a simple Python script (`playback.py`) to fetch and dis
 - numpy
 - (Optional) torch (for GPU detection)
 
-Install Python dependencies:
-```bash
-pip install opencv-python numpy
-```
 
 ## Notes
 - The script automatically selects the highest resolution stream and can use GPU decoding if available.
